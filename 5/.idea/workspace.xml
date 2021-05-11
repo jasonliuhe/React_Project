@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="751d88e0-ab98-427a-9e62-6deeeed09b94" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/data/dummy-backend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../4/nextjs-course-code/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../4/nextjs-course-code/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/pages/[uid].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/pages/last-sales.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/pages/products/[pid].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/pages/user-profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/nextjs-course-code/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/../4/nextjs-course-code/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-content.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-logistics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-logistics.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-summary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/event-summary.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/logistics-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/event-detail/logistics-item.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/event-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/event-item.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/event-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/event-list.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/events-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/events-search.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/results-title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/events/results-title.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/icons/address-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/icons/arrow-right-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/icons/date-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/layout/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/layout/main-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/layout/main-header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/ui/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/ui/button.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/ui/error-alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/components/ui/error-alert.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/dummy-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/helpers/api-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/pages/events/[...slug].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/pages/events/[eventId].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/pages/events/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/public/images/coding-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/public/images/extrovert-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/public/images/introvert-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing-Answer/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.idea/nextjs-course-code-03-prj-routing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-content.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-logistics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-logistics.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-summary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/event-summary.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/logistics-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/event-detail/logistics-item.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/event-item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/event-item.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/event-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/event-list.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/events-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/events-search.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/results-title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/events/results-title.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/icons/address-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/icons/arrow-right-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/icons/date-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/layout/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/layout/main-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/layout/main-header.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/ui/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/ui/button.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/ui/error-alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/components/ui/error-alert.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/dummy-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/pages/events/[...slug].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/pages/events/[eventId].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/pages/events/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/public/images/coding-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/public/images/extrovert-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/public/images/introvert-event.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-course-code-03-prj-routing/styles/globals.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sLtl7OunKqh7NosGAyjKNOgB5e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="751d88e0-ab98-427a-9e62-6deeeed09b94" name="Default Changelist" comment="" />
+      <created>1620663847591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620663847591</updated>
+      <workItem from="1620663849764" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
